@@ -51,3 +51,256 @@ comforts deleted
 display delight deleted
 jumbo furnace deleted
 you in grave danger deleted
+
+L_Ender 's Cataclysm — очень тяжелые боссы и данжи.  deleted
+
+Bosses of Mass Destruction — дополнительные боссы. deleted
+
+Iron's Spells 'n Spellbooks — хотя это магический мод, он добавляет много своих мобов и боссов. deleted
+
+Aquaculture 2 — добавляет десятки новых видов рыб как отдельных сущностей. deleted
+
+Enderman Overhaul — новые виды эндерменов. deleted
+
+Creeper Overhaul — новые виды криперов. deleted
+
+Guard Villagers — стражники в деревнях.
+
+Drodi's Illagers — новые виды разбойников.
+
+Villagers Refreshed / Mobs Refreshed / Golems Refreshed — заменяют или добавляют новые модели/сущности.
+
+Duckling — утки. deleted
+
+Plushie Buddies — если они работают как сущности (энтити). deleted
+
+Sussy Sniffers — вариации нюхачей. deleted
+
+Ribbits — лягушата/новые мобы. deleted
+
+StarbuncleMania — (аддон к Ars Nouveau, добавляющий существ).
+
+Occultism — добавляет духов и демонов (сущности). deleted
+
+[Let's Do] Beachparty / Vinery / Farm & Charm — эти моды добавляют не только еду, но и диких животных/структуры.
+
+animal feeding through deleted
+
+animal pen deleted
+
+ai improvements deleted
+
+Все моды Macaw's: Macaw's Fences and Walls, Furniture, Lights and Lamps, Paths and Pavings, Roofs, Windows, Bridges, Doors, Trapdoors, Stairs, Paintings. (Это 11 модов! Оставь только Bridges или Doors, если они реально нужны для стройки, остальное — в корзину). deleted
+
+handcrafted deleted
+
+arts and crafts deleted
+
+Neo-Blåhaj — просто акула. deleted
+
+Stick It! — клеить вещи на стены. deleted
+
+Jump Over Fences — прыгать через заборы. deleted
+
+TheObsidianBoat — лодка из обсидиана. deleted
+
+Hey Berry! SHUT UP — затыкает кусты ягод. deleted
+
+Bad Wither No Cookie — убирает звук Визера. deleted
+
+Sussy Sniffers — бесполезное изменение нюхачей. deleted
+
+Duckling — утки. deleted
+
+Plushie Buddies — игрушки. deleted
+
+More Totems Of Undying — лишние тотемы. deleted
+
+azure lib deleted
+
+iceberg deleted
+
+Legendary Tooltips — те самые красивые рамки у описания редких предметов. deleted
+
+Equipment Compare — функция сравнения характеристик брони (когда зажимаешь Shift). deleted
+
+Prism — мод на эффекты частиц или отображение определенных данных. deleted
+
+Prickle — мелкий технический мод для работы с блоками. deleted
+
+gametechbcs deleted
+
+openloader deleted
+
+gtbcs deleted
+
+ hazenn deleted
+
+ irons  apothic  deleted
+
+cataclysm spellbooks deleted
+
+attributeifix deleted
+
+Refurbished Furniture (MrCrayfish) — столы, стулья, диваны. Красиво, но для сервера — это сотни сущностей. deleted
+
+AureljPaintings / Macaw's Paintings — сотни лишних картин. deleted
+
+Handcrafted — еще один огромный мод на мебель.
+
+XtonesReworked — сотни футуристических блоков. Если вы не строите город будущего, они просто висят в реестре.
+
+Neo-Blåhaj — плюшевая акула. Чистый мем, пользы ноль.
+
+Duckling / Sussy Sniffers — (если остались) мелкие декоративные мобы.
+
+Plushie Buddies — еще игрушки.
+
+Loot Integrations (все виды) — они пытаются запихнуть предметы в данжи, которых больше нет. Могут спамить ошибками в консоль. deleted
+
+Extra Mod Integrations (EMI) — если ты удалил основной мод (например, боссов), то аддон для него в EMI тоже не нужен.
+
+Reliquified... (Twilight Forest / Cataclysm) — патчи совместимости для модов, которые мы вырезали ранее.
+
+all letsdo mods deleted
+
+almost all emi related mods except osnovnoe EMI (deleted)
+
+Fresh Animations / Fresh Moves — новые движения мобов.
+
+Not Enough Animations — анимации игрока (сидение, лежание). deleted
+
+Wavey Capes — «физика» плащей. deleted
+
+CapeJS — кастомные плащи через скрипты. deleted
+
+Emotecraft (Forge) — система эмоций. deleted
+
+playerAnimator — библиотека для анимаций (раз удалил Iron's Spells и анимации, она не нужна). deleted
+
+Entity Model Features (EMF) / Entity Texture Features (ETF) — поддержка кастомных моделей и текстур (как в Optifine). deleted
+
+DarkGlint — меняет сияние зачарований. deleted
+
+Slightly Improved Font (32x) — замена шрифта.
+
+modernworldcreation deleted
+
+xycraft_world deleted
+
+cursedearthreturns deleted
+
+repeatable_trial_vaults deleted
+
+GatewaysToEternity (ивенты/порталы) deleted
+
+HostileNeuralNetworks (мобы/дропы) deleted
+
+mob_grinding_utils deleted
+
+AmbientSounds deleted
+
+sound-physics-remastered deleted
+
+sounds deleted
+
+more_sounds deleted
+
+entity_texture_features deleted
+
+entity_model_features deleted
+
+notenoughanimations deleted
+
+emotecraft deleted
+
+waveycapes deleted
+
+ChatImpressiveAnimation deleted
+
+SubtleEffects deleted
+
+particle_effects deleted
+
+lambdynamiclights deleted
+
+iris + iris_shader_folder deleted	
+
+all related chat mods deleted
+
+Fancy Toasts — «красивые» всплывающие окна достижений. deleted
+
+Better Advancements — огромное окно достижений (серверу оно не нужно). deleted
+
+PingHUD — отображение пинга на экране. deleted
+
+SeasonHud — показ времени года (раз удаляешь Serene Seasons или оптимизируешь, это лишнее). deleted
+
+Pixel's Simple HUD — лишние элементы на экране.
+
+Traveler's Titles — надписи при входе в новый биом.
+
+Legendary Tooltips — рамки у предметов (ты их уже вроде удалял, проверь).
+
+Item Showcase — демонстрация предметов.
+
+Equipment Compare — сравнение брони.
+
+FancyMenu / Konkrete — переделка главного меню игры.
+
+BHMenu (BisectHosting Menu) — рекламная кнопка хостинга в меню. deleted
+
+Desired Servers — список серверов по умолчанию. deleted
+
+Better Modlist / ModListMemory — украшательства списка модов. deleted
+
+Searchables / Controlling — поиск кнопок и предметов (чисто клиентские удобства).
+
+Neo-Blåhaj — плюшевая акула (если еще не удалил).
+
+Duckling / Sussy Sniffers / Ribbits — декоративные мелкие мобы (если остались).
+
+Stick It! — вешать предметы на стены.
+
+Jumpy Boats / TheObsidianBoat — «прыгающие» и обсидиановые лодки.
+
+Measurements — линейка для измерения блоков (очень специфично, обычно не нужно).
+
+Zume — просто приближение камеры.
+
+FindMe — поиск предмета в ближайших сундуках (удобно, но на сервере — лишний запрос к базе чанков).
+
+Hey Berry! SHUT UP — затыкалка ягод.
+
+Bad Wither No Cookie — затыкалка Визера.
+
+colorwheel deleted
+
+monocle deleted
+cfm wap deleted
+reliqifued ledner cataclysem deleted
+
+ace spell utils deleted	
+
+exposure related mods deleted
+
+glassential renewed deleted
+
+cookingfor… deleted
+
+crystalix deleted
+
+shrink deleted
+
+
+dumpling deleted
+
+gag deleted gadgets against grind
+
+immersive aircraft deleted
+
+
+
+
+
+
